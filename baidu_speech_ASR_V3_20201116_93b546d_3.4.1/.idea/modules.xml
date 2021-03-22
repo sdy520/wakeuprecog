@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/baidu_speech_ASR_V3_20201116_93b546d_3.4.1.iml" filepath="$PROJECT_DIR$/.idea/modules/baidu_speech_ASR_V3_20201116_93b546d_3.4.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/baidu_speech_ASR_V3_20201116_93b546d_3.4.1.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/baidu_speech_ASR_V3_20201116_93b546d_3.4.1.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/baidu_speech_ASR_V3_20201116_93b546d_3.4.1.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/baidu_speech_ASR_V3_20201116_93b546d_3.4.1.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/uiasr/baidu_speech_ASR_V3_20201116_93b546d_3.4.1.uiasr.iml" filepath="$PROJECT_DIR$/.idea/modules/uiasr/baidu_speech_ASR_V3_20201116_93b546d_3.4.1.uiasr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/uidialog/baidu_speech_ASR_V3_20201116_93b546d_3.4.1.uidialog.iml" filepath="$PROJECT_DIR$/.idea/modules/uidialog/baidu_speech_ASR_V3_20201116_93b546d_3.4.1.uidialog.iml" />
+    </modules>
+  </component>
+</project>
